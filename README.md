@@ -7,4 +7,5 @@ A Digital Spirit Level using Arduino Nano and MPU6050 that can show precise angl
 - Auto Calibration for first time setup
 - Menu options for Normal display (angle rounded to nearest whole number) or Precision mode (angle will include 1 decimal point value) & Auto Calibration
 
-# Visit https://designbuilddestroy.com/digital-level for build details, wiring diagrams & 3d printable enclosure files.
+# Visit https://designbuilddestroy.com/digital-level 
+# for build details, wiring diagrams & 3d printable enclosure files.
