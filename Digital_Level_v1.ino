@@ -197,7 +197,7 @@ void dispMenu(byte itemSelect) {
   display.setTextSize(1);
   display.println(F("   Normal"));
   display.println(F(" Precision"));
-  display.println(F(" Calbriate"));
+  display.println(F(" Calibrate"));
 
   if (itemSelect == 0) {
     display.drawRect(5, 2, 120, 17, SSD1306_WHITE); // Draw box around item 1
