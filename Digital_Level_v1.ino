@@ -16,6 +16,7 @@
 
   Required Libraries
    * Jeff Rowberg's MPU6050 library: https://github.com/jrowberg/i2cdevlib/tree/master/Arduino/MPU6050
+   * Jeff Rowberg's I2Cdev library: https://github.com/jrowberg/i2cdevlib/tree/master/Arduino/I2Cdev
    * Adafruit SSD1306 OLED library: https://github.com/adafruit/Adafruit_SSD1306
    * Adafruit GFX library: https://github.com/adafruit/Adafruit-GFX-Library
    * Adafruit font from GFX library: https://github.com/adafruit/Adafruit-GFX-Library/blob/master/Fonts/FreeMono9pt7b.h
